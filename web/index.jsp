@@ -11,6 +11,11 @@
     <title></title>
   </head>
   <body>
-  Hello
+  <form action="">
+    Name: <input type="text"/> <br/>
+    Gender: <input type="text"/> <br/>
+    PhoneNumber: <input type="text"/> <br/>
+    <input type="submit" value="Register"/>
+  </form>
   </body>
 </html>
