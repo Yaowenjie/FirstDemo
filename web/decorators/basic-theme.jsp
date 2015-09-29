@@ -10,10 +10,10 @@
 <html>
 <head>
     <title></title>
+    <link rel="stylesheet" href="../styles/basic.css"/>
 </head>
 <body>
   <h1 class="basic-header">Register User System</h1>
-  <hr/>
 
   <decorator:body />
 
